@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "target": "es2017",  // 为了可以使用await
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
